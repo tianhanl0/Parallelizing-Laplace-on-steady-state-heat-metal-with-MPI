@@ -6,6 +6,6 @@
 
 · Operated python code in MPI inside bridges2, exported final dataset and visualized final stage of heat metal plate using matplotlib of ​​a thermally conductive image
 
-Final image
+### Final image
 
 <img width="562" alt="截屏2023-02-17 12 07 35" src="https://user-images.githubusercontent.com/112505253/219718101-cc1f8e0c-d6de-40a0-aaef-a2bfc38edbf9.png">
